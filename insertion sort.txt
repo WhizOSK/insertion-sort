@@ -54,3 +54,9 @@ Ilk iki sayıyı karsilastir sıralamayı kontrol et
 [2,6,16,18,22,27]
 
 
+
+n n-1 n-2 
+
+O(n)
+
+
