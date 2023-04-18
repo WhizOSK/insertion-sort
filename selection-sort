@@ -1,0 +1,23 @@
+[7,3,5,8,2,9,4,15,6]
+
+En buyuk deger 15, en kucuk deger 2 2 ile 7nin yerini degistir 15 ile 6nin]
+
+[2,3,5,8,7,9,4,6,15]
+
+Siramalayi kontrol et ve 3ten sonra gelecek sayi 4 bu yuzden 5 ile 4'un yerini degistir
+
+[2,3,4,8,7,9,5,6,15]
+
+Siramalayi kontrol et ve 4ten sonra gelecek sayi 5 bu yuzden 5 ile 8'in yerini degistir
+
+[2,3,4,5,7,9,8,6,15]
+
+Siramalayi kontrol et ve 5ten sonra gelecek sayi 6 bu yuzden 6 ile 7'nin yerini degistir
+
+[2,3,4,5,6,9,8,7,15]
+
+Siramalayi kontrol et ve 6dan sonra gelecek sayi 7 bu yuzden 7 ile 9'un yerini degistir
+
+[2,3,4,5,6,7,8,9,15]
+
+Siralamayi kontrol ediyoruz ve en kucukten buyuge olacak sekilde siralandigini goruyoruz
