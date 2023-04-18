@@ -60,3 +60,4 @@ n n-1 n-2
 O(n)
 
 
+18 average case'e girer
