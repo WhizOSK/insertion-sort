@@ -1,30 +1,55 @@
-﻿[22,27,16,2,18,6]    
+Ilk iki sayıyı karsilastir kucuk sayıyı one al
 
-Ilk iki sayıyı karsilastir
+[22,27,16,2,18,6]    
 
+2. Ve 3. Sayıyı karsilastir kucuk sayıyı one al
 [22,27,16,2,18,6]
 
 [22,16,27,2,18,6]
 
+3. Ve 4. Sayıyı karsilastir kucuk sayıyı one al 
+
 [16,22,27,2,18,6]
+
+2. Ve 3. Sayıyı karsilastir kucuk sayıyı one al
 
 [16,22,2,27,18,6]
 
 [16,2,22,27,18,6]
 
-[2,16,22,27,18,6]
+Ilk iki sayıyı karsilastir kucuk sayıyı one al
 
 [2,16,22,27,18,6]
+
+4. Ve 5. Sayıyı karsilastir kucuk sayıyı one al
+
+[2,16,22,27,18,6]
+
+3. Ve 4. Sayıyı karsilastir kucuk sayıyı one al 
 
 [2,16,22,18,27,6]
 
+2. Ve 3. Sayıyı karsilastir kucuk sayıyı one al siralamayi kontrol ederek ilerle
+
 [2,16,18,22,27,6]
+
+5. Ve 6. Sayıyı  karsilastir kucuk sayıyı one al
+
+[2,16,18,22,27,6]
+
+4. Ve 5. Sayıyı karsilastir kucuk sayıyı one al
 
 [2,16,18,22,6,27]
 
+3. Ve 4. Sayıyı karsilastir kucuk sayıyı one al 
+
 [2,16,18,6,22,27]
 
+2. Ve 3. Sayıyı karsilastir kucuk sayıyı one al 
+
 [2,16,6,18,22,27]
+
+Ilk iki sayıyı karsilastir sıralamayı kontrol et
 
 [2,6,16,18,22,27]
 
